@@ -1,4 +1,6 @@
 source 'https://www.rubygems.org' do
   gem 'oci'
+  gem 'cgi'
+  gem 'mime-types'
   gem 'fdk', '>= 0.0.36'
 end
